@@ -10,6 +10,8 @@ Este blog foi desenvolvido para demonstrar como podemos criar layouts responsivo
 ![Imagem 1](blog-inicial/images/IMG1.jpg)
 ![Imagem 2](blog-inicial/images/IMG2.jpg)
 
+[Link do vídeo](https://youtu.be/ft41ldectJM)
+
 ## :wrench: Tecnologias Utilizadas
 
 - **HTML**: Estruturação do conteúdo do blog.
