@@ -7,8 +7,8 @@ Este blog foi desenvolvido para demonstrar como podemos criar layouts responsivo
 
 ## Imagem do Blog:
 
-![Imagem 1](images/IMG1.jgp)
-![Imagem 2](images/IMG2.jpg)
+![Imagem 1](blog-inicial/images/IMG1.jpg)
+![Imagem 2](blog-inicial/images/IMG2.jpg)
 
 ## :wrench: Tecnologias Utilizadas
 
