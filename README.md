@@ -5,11 +5,10 @@ Este projeto é um blog simples e totalmente **responsivo**, desenvolvido com **
 
 Este blog foi desenvolvido para demonstrar como podemos criar layouts responsivos que melhoram a experiência do usuário, independentemente do dispositivo utilizado.
 
-## :camera: Imagem do Blog
+## Imagem do Blog:
 
-![Blog Responsivo](./assets/blog-imagem.png)
-
-*Aqui você pode adicionar uma imagem do seu blog responsivo. Coloque a imagem na pasta `assets` ou no diretório desejado.*
+![Imagem 1](images/IMG1.png)
+![Imagem 2](images/IMG2.png)
 
 ## :wrench: Tecnologias Utilizadas
 
