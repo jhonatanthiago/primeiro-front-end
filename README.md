@@ -1,6 +1,3 @@
-Aqui está o **README.md** atualizado com as tecnologias que você mencionou: jQuery, CSS, Bootstrap, HTML e JavaScript.
-
-```markdown
 # Primeiro Front-End - Blog Responsivo
 
 ## :memo: Descrição
